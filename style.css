@@ -111,6 +111,9 @@ body{
     position: relative;
     cursor: pointer;
 }
+.shareDiv:hover{
+    background-color:var(--GrayishBlue) ;
+}
 .sharePopUp{  
     padding: 1rem 2rem;
     position: absolute;
